@@ -293,7 +293,7 @@ height: 4px;
 border-top: 12px double #000;
 border-bottom: 4px solid #000;
 cursor: pointer;
-border-color: #c05b4d;
+border-color: #b6ff90;
 }
 
 #container-mask {
@@ -441,7 +441,7 @@ color: #888;
 }
 .footnote a:hover{
 text-decoration: underline;
-color:#369;
+color:#000;
 }
 
 /* shortcodes
