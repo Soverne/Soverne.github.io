@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tellurian Tony</title>
+    <link>http://soverne.github.io/</link>
+    <description>Recent content on Tellurian Tony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>htonydeng&#43;blog@gmail.com (Tony Deng)</managingEditor>
+    <webMaster>htonydeng&#43;blog@gmail.com (Tony Deng)</webMaster>
+    <lastBuildDate>Mon, 29 Aug 2016 20:10:22 -0400</lastBuildDate>
+    <atom:link href="http://soverne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>http://soverne.github.io/about/</link>
+      <pubDate>Mon, 29 Aug 2016 20:10:22 -0400</pubDate>
+      <author>htonydeng&#43;blog@gmail.com (Tony Deng)</author>
+      <guid>http://soverne.github.io/about/</guid>
+      <description>&lt;p&gt;Bio coming soon~!&lt;/p&gt;
+
+&lt;p&gt;Currently seeking:&lt;br /&gt;
+  - Interesting projects&lt;/p&gt;
+
+&lt;p&gt;Currently working on:&lt;br /&gt;
+  - Learning machine learning&lt;br /&gt;
+  - AI to help with decision making&lt;br /&gt;
+  - School&lt;br /&gt;
+  - This website&lt;br /&gt;
+  - Being more efficient&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://soverne.github.io/post/hello-world/</link>
+      <pubDate>Mon, 29 Aug 2016 20:10:22 -0400</pubDate>
+      <author>htonydeng&#43;blog@gmail.com (Tony Deng)</author>
+      <guid>http://soverne.github.io/post/hello-world/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A legendary blog begins with a single post&amp;rdquo; - 21st Century Confucius&lt;/p&gt;
+
+&lt;p&gt;Welcome to the blog. I promise it won&amp;rsquo;t always be this cheesy.
+I&amp;rsquo;m Tony, currently finishing my first co-op term and moving into 2A Mechatronics Engineering at the University of Waterloo.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m starting a blog so I can write a bit more outside of Facebook messages and class notes. I would also like to share some knowledge about topics that don&amp;rsquo;t get brought up in normal conversation.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t plan on adding a comment section to my posts but if you have any feedback feel free to send me an email at htonydeng+blog@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;The current plan is two write two blog posts a week. One serious post and one that isn&amp;rsquo;t. The tentative schedule is a funny post on Monday and a serious post on Friday. I&amp;rsquo;m currently trying to work on my humor so I&amp;rsquo;m going to be posting a compilation of 7 fun one-liner jokes that I think of during the week. More fun things to come!&lt;/p&gt;
+
+&lt;p&gt;Until then, see you all this Friday!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
