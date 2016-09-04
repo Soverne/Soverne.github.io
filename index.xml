@@ -8,8 +8,78 @@
     <language>en-us</language>
     <managingEditor>htonydeng&#43;blog@gmail.com (Tony Deng)</managingEditor>
     <webMaster>htonydeng&#43;blog@gmail.com (Tony Deng)</webMaster>
-    <lastBuildDate>Mon, 29 Aug 2016 20:10:22 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2016 19:21:55 -0400</lastBuildDate>
     <atom:link href="http://soverne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I missed the moon ... and the schedule</title>
+      <link>http://soverne.github.io/post/first-friday/</link>
+      <pubDate>Sat, 03 Sep 2016 19:21:55 -0400</pubDate>
+      <author>htonydeng&#43;blog@gmail.com (Tony Deng)</author>
+      <guid>http://soverne.github.io/post/first-friday/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s less than a week since I&amp;rsquo;ve set up the blog and I already missed the first deadline.&lt;/p&gt;
+
+&lt;h1 id=&#34;to-be-honest&#34;&gt;To be honest&amp;hellip;&lt;/h1&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://soverne.github.io/media/feels.png&#34; alt=&#34;it feels bad man.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        it feels bad man.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This does segue into a fun topic to explore, the idea of expectations. A generally good way to live life is to &lt;strong&gt;under-promise and over-deliver&lt;/strong&gt;. Assuming a bit of common sense about not bottoming out on expectations, you will always surprise yourself and other people (Great success!). I have generally done the opposite, setting unrealistic expectations and ending with an average to above-average performance.&lt;/p&gt;
+
+&lt;p&gt;This blog is currently fairly average by my performance standards: Use Hugo, write, push to github &lt;strong&gt;on time&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I apologize for not getting this post out on time. I hope Monday&amp;rsquo;s post will arrive on time but I&amp;rsquo;m moving into residence that day so anything goes :)&lt;/p&gt;
+
+&lt;h1 id=&#34;a-lesser-known-side-effect-of-not-meeting-expectations&#34;&gt;A lesser known side effect of not meeting expectations&lt;/h1&gt;
+
+&lt;p&gt;&amp;hellip; is that one gets a lot of practice with completing &amp;ldquo;post-mortems&amp;rdquo;. I&amp;rsquo;ll share the one I wrote up in response to being late for the first serious blog post:&lt;/p&gt;
+
+&lt;p&gt;Why it happened&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m lazy&lt;/li&gt;
+&lt;li&gt;Computers are hard&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.ca/search?q=nuka+world&#34; target=&#34;blank&#34;&gt; Nuka World&lt;/a&gt; just released for Fallout 4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How I can remedy the situation&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Post as soon as possible&lt;/li&gt;
+&lt;li&gt;Apologize profusely&lt;/li&gt;
+&lt;li&gt;Add extra markdown flair to distract from late-ness (Say hello to pictures and a table of contents!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How I&amp;rsquo;ll prevent it from happening again&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write a quick outline of the next post immediately after writing current post&lt;/li&gt;
+&lt;li&gt;Make a habit of practicing periodic concentration to ward off procrastination&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Edit the blog timestamp&lt;/del&gt; Post something on time and edit later if time permits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;to-conclude&#34;&gt;To conclude&lt;/h1&gt;
+
+&lt;p&gt;Enough one-liners to last you a week are (probably) coming out on Monday - I&amp;rsquo;ve already written up the outline. That&amp;rsquo;s all folks!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About me</title>
@@ -19,15 +89,21 @@
       <guid>http://soverne.github.io/about/</guid>
       <description>&lt;p&gt;Bio coming soon~!&lt;/p&gt;
 
-&lt;p&gt;Currently seeking:&lt;br /&gt;
-  - Interesting projects&lt;/p&gt;
+&lt;p&gt;Currently seeking:&lt;/p&gt;
 
-&lt;p&gt;Currently working on:&lt;br /&gt;
-  - Learning machine learning&lt;br /&gt;
-  - AI to help with decision making&lt;br /&gt;
-  - School&lt;br /&gt;
-  - This website&lt;br /&gt;
-  - Being more efficient&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Interesting projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Currently working on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learning machine learning&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;AI to help with decision making&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;School&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;This website&lt;/li&gt;
+&lt;li&gt;Being more efficient&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

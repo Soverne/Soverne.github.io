@@ -96,7 +96,7 @@ text-decoration: none;
 transition: all 0.2s ease-in-out 0s;
 }
 a.sidebar-link:hover {
-color: #b6ff90;
+color: #4ca6ff;
 padding-left: 10px;
 }
 .sidebar-nav-item.nav-home {
@@ -108,7 +108,7 @@ color: #FFF;
 }
 
 .sidebar-nav-item .genericon {
-color: #b6ff90;
+color: #4ca6ff;
 font-size: 22px;
 margin-top: 4px;
 margin-right: 10px;
@@ -129,7 +129,7 @@ vertical-align: middle;
 color: #FFF;
 }
 .sidebar-externals a:hover {
-color: #b6ff90;
+color: #4ca6ff;
 }
 
 .sidebar hr {
@@ -293,7 +293,7 @@ height: 4px;
 border-top: 12px double #000;
 border-bottom: 4px solid #000;
 cursor: pointer;
-border-color: #b6ff90;
+border-color: #4ca6ff;
 }
 
 #container-mask {
@@ -350,7 +350,7 @@ padding-left: 30px;
 }
 
 .post a {
-color: #000;
+color: #4ca6ff;
 text-decoration: none;
 }
 .post a:hover {
