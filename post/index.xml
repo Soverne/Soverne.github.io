@@ -8,8 +8,52 @@
     <language>en-us</language>
     <managingEditor>htonydeng&#43;blog@gmail.com (Tony Deng)</managingEditor>
     <webMaster>htonydeng&#43;blog@gmail.com (Tony Deng)</webMaster>
-    <lastBuildDate>Mon, 05 Sep 2016 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2016 09:00:14 -0400</lastBuildDate>
     <atom:link href="http://soverne.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Augmented and Virtual Reality, the turtle and the hare</title>
+      <link>http://soverne.github.io/post/ar-vr/</link>
+      <pubDate>Fri, 09 Sep 2016 09:00:14 -0400</pubDate>
+      <author>htonydeng&#43;blog@gmail.com (Tony Deng)</author>
+      <guid>http://soverne.github.io/post/ar-vr/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s conceivable that VR is going to change the world soon. I&amp;rsquo;d like to argue that AR is already doing so and will be the predominant force for at least the next 5 years.&lt;/p&gt;
+
+&lt;p&gt;Brief disclaimer: I do not claim to be able to predict the future. Please don&amp;rsquo;t make any large decisions as a result of this blog post. This is my opinion.&lt;/p&gt;
+
+&lt;h1 id=&#34;a-prediction&#34;&gt;A prediction&lt;/h1&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://soverne.github.io/media/arvr.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;They say a picture&amp;rsquo;s worth a thousand words, the one above might be a few less than that. In essence, I think that the number of &amp;ldquo;users&amp;rdquo;, people who have access to AR and VR technologies, will use AR more in the next few years than they will VR. VR might even get displaced a bit as AR is becoming mainstream. I argue that this is because of three &lt;em&gt;current&lt;/em&gt; advantages of AR.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Lower tech barrier to entry - You can experience AR right now if you have access to a smartphone or a webcam of some sort. Mac OSX has (as far as I can remember) shipped with Photobooth that allows users to add backgrounds to their photos. Pokemon GO on the other hand can bring Pokemon to life wherever the camera is facing. From a hardware perspective, some sort of optics are all that are required to bring create an AR experience because AR is fundamentally about adding on to reality. VR is more about simulating or creating an alternate reality. To get that done, more powerful processors and batteries are needed along with specialized screens and an isolation apparatus. Sound has to be considered and maybe even taste, touch, and smell if one wants to fully substitute a current reality with a great virtual one. Specialized controllers are also a cost for VR, while the ubiquity of AR has allowed for touch to be a simple input for users.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lower bounds for value - When it comes to AR, it can be argued that it is a culmination of a tool-oriented mindset that humans have always had. Augmented reality can be leveraged to build &lt;strong&gt;tools&lt;/strong&gt; for people. I know of augmented reality applications that can simulate how a piece of furniture would look in your home. That&amp;rsquo;s cool stuff. VR on the other hand has stagnated as mainly venues for consuming content, mainly gaming and or other curated experiences. This current state of affairs places AR as something to use to produce and VR as something to use to consume. This will definitely change as VR inputs get more intuitive and smart people start pushing the limits of the tech. For now, AR is ahead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Portability - Once VR becomes something that isn&amp;rsquo;t reserved only for use at home or expositions, it will completely change the way people think of reality. Until then, AR will be the dominant next generation platform. VR cafe&amp;rsquo;s, like internet cafe&amp;rsquo;s, might be the next big thing for people to consume content.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;to-conclude&#34;&gt;To conclude&lt;/h1&gt;
+
+&lt;p&gt;In a nutshell, I believe the pre-requisite technology for VR to become a mass-produced product is not available at the moment. Until then, people who work on VR will hopefully
+Given the rate of technological advancement, my current prediction is that VR adoption will grow faster than AR by 2021. Hopefully we&amp;rsquo;ll reach a point where a VR headset in each home becomes the norm and not the exception (VR headset is inclusive of various phone based VR headsets).&lt;/p&gt;
+
+&lt;p&gt;Hopefully more developers think of ways to add value to the VR experience. It has to be a better way of experiencing something than real life. Until then, AR will reign supreme by being able to add on to the world around us. Just for the record, I&amp;rsquo;m not biased against either tech. I for one welcome the newest cutting edge technology into the world.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading! My next post will be a film review of Rushmore by Wes Anderson and maybe Boyhood by Richard Linklater (depending on how much off-time I have this weekend).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One liners x7</title>
